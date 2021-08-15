@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Walid 👋
 
 [![Walidsj's GitHub stats](https://github-readme-stats.vercel.app/api?username=walidsj)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=walidsj)](https://github.com/ryo-ma/github-profile-trophy)
