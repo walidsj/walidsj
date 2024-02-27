@@ -10,13 +10,11 @@ Website Developer
 
 Indonesian, Male
 
-Read my blog posts via [Visit Blog](https://walid.id/blog)
-
-## Reach Me
+Read my blog posts via [Blog](https://walid.id/blog)
 
 [![Email](https://img.shields.io/badge/mail-WORK-white?style=for-the-badge&logo=mail)](mailto:mohwalidas@outlook.com)
 <!-- [![Instagram](https://img.shields.io/badge/instagram-walidassani-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/walidassani) -->
-[![Github](https://img.shields.io/badge/Github-walidsj-gold?style=for-the-badge&logo=github)](https://github.com/walidsj)
+<!-- [![Github](https://img.shields.io/badge/Github-walidsj-gold?style=for-the-badge&logo=github)](https://github.com/walidsj) -->
 <!-- [![Twitter](https://img.shields.io/badge/twitter-DHARNARH-blue?style=for-the-badge&logo=twitter)](https://twitter.com/walidsj) -->
 <!-- [![Telegram](https://img.shields.io/badge/telegram-WALIDSJ-blue?style=for-the-badge&logo=telegram)](https://t.me/walidsj) -->
 
