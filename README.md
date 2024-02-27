@@ -22,12 +22,10 @@ Read my blog posts via [Visit Blog](https://walid.id/blog)
 
 ## Github Stats
 
-<a href="https://walid.id" target="_blank" rel="noopener">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=walidsj&show_icons=true" />
-</a>
-<a href="https://walid.id" target="_blank" rel="noopener">
-  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsj&layout=compact" />
-</a>
+<!--   <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=walidsj" /> -->
+
+  <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsj&layout=donut" />
+
 
 <!--
 **walidsj/walidsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
