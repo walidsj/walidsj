@@ -5,10 +5,9 @@
 
 ## Hi there 👋
 
-### About Me
+<strong>Walid Assani</strong>
+<br/>
 Website Developer
-
-Indonesian, Male
 
 Read my blog posts via [Blog](https://walid.id/blog)
 
@@ -17,8 +16,9 @@ Read my blog posts via [Blog](https://walid.id/blog)
 <!-- [![Github](https://img.shields.io/badge/Github-walidsj-gold?style=for-the-badge&logo=github)](https://github.com/walidsj) -->
 <!-- [![Twitter](https://img.shields.io/badge/twitter-DHARNARH-blue?style=for-the-badge&logo=twitter)](https://twitter.com/walidsj) -->
 <!-- [![Telegram](https://img.shields.io/badge/telegram-WALIDSJ-blue?style=for-the-badge&logo=telegram)](https://t.me/walidsj) -->
+<!-- <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsj&layout=donut" /> -->
 
-<img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsj&layout=donut" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidsj&layout=compact)
 
 
 <!--
