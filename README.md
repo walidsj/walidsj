@@ -18,7 +18,7 @@ Read my blog posts via [Blog](https://walid.id/blog)
 <!-- [![Telegram](https://img.shields.io/badge/telegram-WALIDSJ-blue?style=for-the-badge&logo=telegram)](https://t.me/walidsj) -->
 <!-- <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walidsj&layout=donut" /> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidsj&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walidsj&size_weight=0.5&count_weight=0.5&layout=compact)
 
 
 <!--
